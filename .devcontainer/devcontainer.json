@@ -33,11 +33,11 @@
         "editor.formatOnType": true,
         "files.trimTrailingWhitespace": true,
         "terminal.integrated.profiles.linux": {
-          "zsh": {
-            "path": "/usr/bin/zsh"
+          "bash": {
+            "path": "/usr/bin/bash"
           }
         },
-        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.defaultProfile.linux": "bash",
         "yaml.customTags": [
           "!input scalar",
           "!secret scalar",
